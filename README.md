@@ -12,9 +12,11 @@ The primary source of Data used here is Data Sale/csv and this an open source da
 
 ### Tools Used
 
-- Ms Excel for Data Cleaning (Dowmnload Here_
+- Ms Excel for Data Cleaning [Download Here](https://www.microsoft.com)
     - For Data Collection
     - For Data Cleaning
+      1. Data Manipulation
+      2. Data Munching 
 -  SQL Server (For Querying and Analysis)
 -  Power BI (For creating a report)
 -  MS Power Point (For Presentation)
